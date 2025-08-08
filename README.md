@@ -1,6 +1,10 @@
 Cache Module for PHPixie
 ====================
 
+# forked from phpixie/cache
+
+## Adapt to php 8.3+
+
 Cache support for PHPixie, supported drivers are:
 * APC
 * Database
